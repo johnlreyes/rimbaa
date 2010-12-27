@@ -1,4 +1,9 @@
-package jlr.hl7.datatypes;
+package jlr.hl7.datatypes.generic.collections;
+
+import jlr.hl7.datatypes.ANY;
+import jlr.hl7.datatypes.basic.BL;
+import jlr.hl7.datatypes.basic.INT;
+import jlr.hl7.datatypes.basic.ST;
 
 public interface LIST<T extends ANY> extends ANY {
 

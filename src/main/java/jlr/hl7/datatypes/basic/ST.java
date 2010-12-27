@@ -1,6 +1,4 @@
-package jlr.hl7.datatypes;
-
-import org.aopalliance.intercept.Interceptor;
+package jlr.hl7.datatypes.basic;
 
 public interface ST extends ED {
 

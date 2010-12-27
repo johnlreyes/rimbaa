@@ -1,4 +1,6 @@
-package jlr.hl7.datatypes;
+package jlr.hl7.datatypes.basic;
+
+import jlr.hl7.datatypes.ANY;
 
 public interface BL extends ANY {
 
